@@ -5,7 +5,7 @@ Repositório dedicado às versões estáveis e distribuíveis da aplicação *Re
 ## 📥 Downloads
 Acesse a [página de releases](https://github.com/jrp-neto/registros-max/releases) para verificar o histórico de atualizações.
 
-Download da última versão: [Registros Max v.1.0](https://github.com/jrp-neto/registros-max/releases/download/v.1.0/Registros.Max.v.1.0.rar)
+Download da última versão: [Registros Max v.1.1](https://github.com/jrp-neto/registros-max/releases/download/v.1.0/Registros.Max.v.1.1.rar)
 
 Download Excel: [Registros CRA - 12/02/2025](https://github.com/jrp-neto/registros-max/releases/download/base/Registros.CRA.xlsx)
 
@@ -26,18 +26,17 @@ Download Excel: [Registros CRA - 12/02/2025](https://github.com/jrp-neto/registr
 
 ## 🚀 Utilização
 
-1. Abra o Outlook e aguarde a sincronização
-2. Abra `🖥️ Registros Max`
-3. Digite sua matrícula e clique no botão "⚙️"
-4. Digite o nome da pasta que você deseja realizar a extração e clique no botão `Salvar`
-5. Clique no botão `Extrair E-mails` e aguarde a finalização do processo
-6. Abra a planilha
-7. Na aba "Ações" da planilha, correlacione as ações com os assuntos dos e-mails e adicione o texto do registro
-8. Certifique-se de que as colunas "Matrícula" e "Registro CRA" estão devidamente preenchidas
-9. Salve a planilhe e feche-a
-10. Digite sua senha em `🖥️ Registros Max`
-11. Clique no botão `Iniciar` e aguarde a finalização do processo
-12. Registros concluídos!
+1. Abra `🖥️ Registros Max`
+2. Digite sua matrícula e clique no botão "⚙️"
+3. Digite o nome da pasta que você deseja realizar a extração e clique no botão `Salvar`
+4. Clique no botão `Extrair E-mails` e aguarde a finalização do processo
+5. Abra a planilha
+6. Na aba "Ações" da planilha, correlacione as ações com os assuntos dos e-mails e adicione o texto do registro
+7. Certifique-se de que as colunas "Matrícula" e "Registro CRA" estão devidamente preenchidas
+8. Salve a planilhe e feche-a
+9. Digite sua senha em `🖥️ Registros Max`
+10. Clique no botão `Iniciar` e aguarde a finalização do processo
+11. Registros concluídos!
 
 🚨 **Atenção!**
 
