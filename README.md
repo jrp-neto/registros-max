@@ -45,8 +45,6 @@ Download Excel: [Registros CRA](https://github.com/jrp-neto/registros-max/releas
 
 [Download](https://github.com/jrp-neto/registros-max/releases/download/base/Registros.CRA.Manual.xlsx)
 
-*Após baixar exclua a outra planilha, pois apenas um arquivo excel deve estar dentro da pasta*
-
 ⚠️ **<u>E-mails com erro não serão extraídos e não devem ser adicionados manualmente na planilha!</u>** ⚠️
 
 ## 📚 Suporte
