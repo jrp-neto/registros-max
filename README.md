@@ -7,7 +7,7 @@ Acesse a [página de releases](https://github.com/jrp-neto/registros-max/release
 
 Download da última versão: [Registros Max v.1.2.2](https://github.com/jrp-neto/registros-max/releases/download/v.1.2.2/Registros.Max.v.1.2.2.rar)
 
-Download Excel: [Registros CRA - 26/02/2025](https://github.com/jrp-neto/registros-max/releases/download/base/Registros.CRA.xlsx)
+Download Excel: [Registros CRA](https://github.com/jrp-neto/registros-max/releases/download/base/Registros.CRA.xlsx)
 
 ## 📦 Instalação
 
