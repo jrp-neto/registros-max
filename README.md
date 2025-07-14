@@ -5,7 +5,7 @@ Repositório dedicado às versões estáveis e distribuíveis da aplicação *Re
 ## 📥 Downloads
 Acesse a [página de releases](https://github.com/jrp-neto/registros-max/releases) para verificar o histórico de atualizações.
 
-Download da última versão: [Registros Max v.1.2.2](https://github.com/jrp-neto/registros-max/releases/download/v.1.2.2/Registros.Max.v.1.2.2.rar)
+Download da última versão: [Registros Max v.1.2.2](https://github.com/jrp-neto/registros-max/releases/download/v.1.3.1/Registros.Max.v.1.3.1.rar)
 
 Download Excel: [Registros CRA](https://github.com/jrp-neto/registros-max/releases/download/base/Registros.CRA.xlsx)
 
@@ -36,14 +36,6 @@ Download Excel: [Registros CRA](https://github.com/jrp-neto/registros-max/releas
 10. Digite sua senha em `🖥️ Registros Max`
 11. Clique no botão `Iniciar` e aguarde a finalização do processo
 12. Registros concluídos!
-
-🚨 **Atenção!**
-
-*Para o bom funcionamento desta aplicação é necessário que os assuntos dos e-mails das ações sejam distintos*
-
-*Caso ocorra algum problema na extração, será necessário utilizar a planilha de alimentação manual disponibilizada abaixo:*
-
-[Download](https://github.com/jrp-neto/registros-max/releases/download/base/Registros.CRA.Manual.xlsx)
 
 ⚠️ **<u>E-mails com erro não serão extraídos e não devem ser adicionados manualmente na planilha!</u>** ⚠️
 
