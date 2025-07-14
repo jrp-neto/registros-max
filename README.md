@@ -5,7 +5,7 @@ Repositório dedicado às versões estáveis e distribuíveis da aplicação *Re
 ## 📥 Downloads
 Acesse a [página de releases](https://github.com/jrp-neto/registros-max/releases) para verificar o histórico de atualizações.
 
-Download da última versão: [Registros Max v.1.2.2](https://github.com/jrp-neto/registros-max/releases/download/v.1.3.1/Registros.Max.v.1.3.1.rar)
+Download da última versão: [Registros Max v.1.3.1](https://github.com/jrp-neto/registros-max/releases/download/v.1.3.1/Registros.Max.v.1.3.1.rar)
 
 Download Excel: [Registros CRA](https://github.com/jrp-neto/registros-max/releases/download/base/Registros.CRA.xlsx)
 
