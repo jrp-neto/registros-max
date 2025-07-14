@@ -11,7 +11,7 @@ Download Excel: [Registros CRA](https://github.com/jrp-neto/registros-max/releas
 
 ## 📦 Instalação
 
-1. Baixe o arquivo Registros.Max.v.1.2.2.rar
+1. Baixe o arquivo Registros.Max.v.1.3.1.rar
 2. Extraia este arquivo em uma pasta de sua preferência
 3. Baixe a planilha excel em uma pasta de sua preferência
 4. Ao finalizar, sua pasta deve conter os seguintes arquivos:
