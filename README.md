@@ -3,7 +3,6 @@
 Repositório dedicado às versões estáveis e distribuíveis da aplicação *Registros Max*.
 
 ## 📥 Downloads
-Acesse a [página de releases](https://github.com/jrp-neto/registros-max/releases) para verificar o histórico de atualizações.
 
 Download da última versão: [Registros Max v.1.4.0](https://github.com/jrp-neto/registros-max/releases/download/v.1.4.0/Registros.Max.v.1.4.0.rar)
 
