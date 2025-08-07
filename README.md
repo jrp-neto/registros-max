@@ -5,13 +5,13 @@ Repositório dedicado às versões estáveis e distribuíveis da aplicação *Re
 ## 📥 Downloads
 Acesse a [página de releases](https://github.com/jrp-neto/registros-max/releases) para verificar o histórico de atualizações.
 
-Download da última versão: [Registros Max v.1.3.4](https://github.com/jrp-neto/registros-max/releases/download/v.1.3.4/Registros.Max.v.1.3.4.rar)
+Download da última versão: [Registros Max v.1.4.0](https://github.com/jrp-neto/registros-max/releases/download/v.1.3.4/Registros.Max.v.1.4.0.rar)
 
 Download Excel: [Registros CRA](https://github.com/jrp-neto/registros-max/releases/download/base/Registros.CRA.xlsx)
 
 ## 📦 Instalação
 
-1. Baixe o arquivo Registros.Max.v.1.3.4.rar
+1. Baixe o arquivo Registros.Max.v.1.4.0.rar
 2. Extraia este arquivo em uma pasta de sua preferência
 3. Baixe a planilha excel em uma pasta de sua preferência
 4. Ao finalizar, sua pasta deve conter os seguintes arquivos:
