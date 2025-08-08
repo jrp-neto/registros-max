@@ -21,23 +21,6 @@ Download Excel: [Registros CRA](https://github.com/jrp-neto/registros-max/releas
 
 5. Instalação concluída!
 
-## 🚀 Utilização
-
-1. Abra `🖥️ Registros Max`
-2. Digite sua matrícula e clique no botão "⚙️"
-3. Digite o nome da pasta do Outlook que você deseja realizar a extração
-4. Selecione o local em que a planilha está salva e clique em `Salvar`
-5. Clique no botão `Extrair E-mails` e aguarde a finalização do processo
-6. Abra a planilha
-7. Na aba "Ações" da planilha, correlacione as ações com os assuntos dos e-mails e adicione o texto do registro
-8. Certifique-se de que as colunas "Matrícula" e "Registro CRA" estão devidamente preenchidas
-9. Salve a planilhe e feche-a
-10. Digite sua senha em `🖥️ Registros Max`
-11. Clique no botão `Iniciar` e aguarde a finalização do processo
-12. Registros concluídos!
-
-⚠️ **<u>E-mails com erro não serão extraídos e não devem ser adicionados manualmente na planilha!</u>** ⚠️
-
 ## 📚 Suporte
 Para quaisquer problemas com a utilização deste software, contate via E-mail: neto.r94@gmail.com
 
