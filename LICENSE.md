@@ -1,6 +1,6 @@
 # LICENÇA DE USO / USAGE LICENSE
 
-**Copyright (c) 2025 [Seu Nome ou Nome da Empresa]**  
+**Copyright (c) 2025, José Ribeiro Pessoa Neto**  
 **Todos os direitos reservados / All Rights Reserved**
 
 Este software é protegido por leis nacionais e tratados internacionais de direitos autorais.  
