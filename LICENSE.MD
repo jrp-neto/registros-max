@@ -1,0 +1,36 @@
+Copyright (c) 2025, José Ribeiro Pessoa Neto.
+
+===============================================
+LICENÇA DE USO / USAGE LICENSE
+===============================================
+
+Todos os direitos reservados / All Rights Reserved
+
+Este software é protegido por leis nacionais e tratados internacionais de direitos autorais.
+A distribuição deste executável não concede qualquer direito sobre o código-fonte subjacente.
+_This software is protected by national laws and international copyright treaties.
+The distribution of this executable does not grant any rights to the underlying source code._
+
+-----------------------------------------------
+PROIBIÇÕES / PROHIBITIONS
+-----------------------------------------------
+É EXPRESSAMENTE PROIBIDO:
+It is STRICTLY PROHIBITED to:
+- Copiar, modificar, distribuir ou sublicenciar este software, no todo ou em parte, sem autorização prévia e por escrito do autor.
+  _Copy, modify, distribute, or sublicense this software, in whole or in part, without the prior written consent of the author._
+- Realizar engenharia reversa, descompilação, desmontagem ou qualquer outra tentativa de obter o código-fonte.
+  _Perform reverse engineering, decompilation, disassembly, or any other attempt to obtain the source code._
+- Utilizar o software, ou qualquer parte dele, para fins comerciais ou não comerciais sem autorização.
+  _Use the software, or any part of it, for commercial or non-commercial purposes without authorization._
+
+-----------------------------------------------
+ACEITAÇÃO / ACCEPTANCE
+-----------------------------------------------
+O uso deste software implica aceitação integral destes termos.
+_Using this software implies full acceptance of these terms._
+
+-----------------------------------------------
+RESPONSABILIDADE LEGAL / LEGAL LIABILITY
+-----------------------------------------------
+Qualquer violação poderá resultar em responsabilização civil e criminal, conforme a legislação vigente.
+_Any violation may result in civil and criminal liability under applicable law._
