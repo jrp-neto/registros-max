@@ -1,0 +1,39 @@
+# LICENÇA DE USO / USAGE LICENSE
+
+**Copyright (c) 2025 [Seu Nome ou Nome da Empresa]**  
+**Todos os direitos reservados / All Rights Reserved**
+
+Este software é protegido por leis nacionais e tratados internacionais de direitos autorais.  
+A distribuição deste executável não concede qualquer direito sobre o código-fonte subjacente.  
+**This software is protected by national laws and international copyright treaties.**  
+**The distribution of this executable does not grant any rights to the underlying source code.**
+
+---
+
+## PROIBIÇÕES / PROHIBITIONS
+
+**É EXPRESSAMENTE PROIBIDO:**  
+**It is STRICTLY PROHIBITED to:**
+
+- Copiar, modificar, distribuir ou sublicenciar este software, no todo ou em parte, sem autorização prévia e por escrito do autor.  
+  *Copy, modify, distribute, or sublicense this software, in whole or in part, without the prior written consent of the author.*
+
+- Realizar engenharia reversa, descompilação, desmontagem ou qualquer outra tentativa de obter o código-fonte.  
+  *Perform reverse engineering, decompilation, disassembly, or any other attempt to obtain the source code.*
+
+- Utilizar o software, ou qualquer parte dele, para fins comerciais ou não comerciais sem autorização.  
+  *Use the software, or any part of it, for commercial or non-commercial purposes without authorization.*
+
+---
+
+## ACEITAÇÃO / ACCEPTANCE
+
+O uso deste software implica aceitação integral destes termos.  
+*Using this software implies full acceptance of these terms.*
+
+---
+
+## RESPONSABILIDADE LEGAL / LEGAL LIABILITY
+
+Qualquer violação poderá resultar em responsabilização civil e criminal, conforme a legislação vigente.  
+*Any violation may result in civil and criminal liability under applicable law.*
