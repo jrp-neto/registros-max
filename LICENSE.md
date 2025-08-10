@@ -5,8 +5,8 @@
 
 Este software é protegido por leis nacionais e tratados internacionais de direitos autorais.  
 A distribuição deste executável não concede qualquer direito sobre o código-fonte subjacente.  
-**This software is protected by national laws and international copyright treaties.**  
-**The distribution of this executable does not grant any rights to the underlying source code.**
+*This software is protected by national laws and international copyright treaties.* 
+*The distribution of this executable does not grant any rights to the underlying source code.*
 
 ---
 
